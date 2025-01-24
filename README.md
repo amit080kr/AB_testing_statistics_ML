@@ -1,4 +1,4 @@
-## Udacity A/B Testing Experiment: README  
+## Udacity A/B Testing Experiment  
 
 ### **Overview**  
 This project evaluates an A/B test conducted by Udacity to assess the impact of introducing a time-commitment question for users enrolling in free trial courses. The goal was to determine whether setting clearer expectations for time commitment would reduce dropouts during the free trial period and improve student outcomes, without significantly affecting overall enrollments.
